@@ -1,0 +1,18 @@
+# Output directory for the generated documentation
+output: ./docs
+
+# Title of the documentation
+title: My GraphQL API Documentation
+
+# Theme options (optional)
+theme:
+  # Available themes: 'light', 'dark', 'honey'
+  name: dark
+  # Customize colors (optional)
+  colors:
+    primary: '#3498db'
+    secondary: '#2ecc71'
+
+# UNUSED
+servers:
+  - url:  http://localhost:5005/graphql

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "spectaql": "^2.3.1"
+  },
+  "scripts": {
+    "generate-docs": "./generate_docs.sh"
+  }
+}
